@@ -1,0 +1,13 @@
+# Standard .gitignore for Showcase
+screenshots/
+docs/
+README.md
+LICENSE
+.gitattributes
+
+# Allow these specific items
+!screenshots/
+!docs/
+!README.md
+!LICENSE
+!.gitattributes
